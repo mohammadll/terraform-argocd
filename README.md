@@ -5,7 +5,7 @@
 
 ## what kind of resources are we going to create:
 - Argocd applications
-   - without sync policies & sync options :white_large_square:
+   - without sync policies & sync options :white_check_mark:
    - with sync policies & sync options :white_large_square:
 - Argocd projects :white_large_square:
 - Argocd private repositories :white_large_square:
