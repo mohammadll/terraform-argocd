@@ -5,15 +5,15 @@
 
 ## what kind of resources are we going to create:
 - Argocd applications
-   - without sync policies & sync options
-   - with sync policies & sync options
-- Argocd projects
-- Argocd private repositories
-- Argocd clusters
+   - without sync policies & sync options :white_large_square:
+   - with sync policies & sync options :white_large_square:
+- Argocd projects :white_large_square:
+- Argocd private repositories :white_large_square:
+- Argocd clusters :white_large_square:
 - Argocd applicationsets
-   - cluster generator
-   - list generator
-   - git generator (directories subtype)
-   - git generator (files subtype)
-   - matrix generator
-   - merge generator
+   - cluster generator :white_large_square:
+   - list generator :white_large_square:
+   - git generator (directories subtype) :white_large_square:
+   - git generator (files subtype) :white_large_square:
+   - matrix generator :white_large_square:
+   - merge generator :white_large_square:
