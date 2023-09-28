@@ -1,2 +1,2 @@
 # terraform-argocd
-Creating argocd rsources using terraform
+![Terraform Image](terraform.png)
