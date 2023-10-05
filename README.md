@@ -8,7 +8,7 @@
    - without sync policies & sync options :white_check_mark:
    - with sync policies & sync options :white_check_mark:
 - Argocd projects :white_check_mark:
-- Argocd private repositories :white_large_square:
+- Argocd private repositories :white_check_mark:
 - Argocd clusters :white_large_square:
 - Argocd applicationsets
    - cluster generator :white_large_square:
