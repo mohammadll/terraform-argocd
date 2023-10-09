@@ -1,4 +1,4 @@
-# In this project, we use four different generators. if you want each o them to be created in your argocd server , you need to provide the value "true" when applying. Otherwise, provide the value "false"
+# ***** IMPORTANT : In this project, we use four different generators. if you want each of them to be created in your argocd server , you need to provide the value "true" when applying. Otherwise, provide the value "false"
 locals {
   clusters_generator_enabled       = var.clusters_generator_enabled
   gitDirectories_generator_enabled = var.gitDirectories_generator_enabled
