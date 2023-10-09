@@ -11,9 +11,9 @@
 - Argocd private repositories :white_check_mark:
 - Argocd clusters :white_check_mark:
 - Argocd applicationsets
-   - cluster generator :white_large_square:
-   - list generator :white_large_square:
-   - git generator (directories subtype) :white_large_square:
-   - git generator (files subtype) :white_large_square:
+   - cluster generator :white_check_mark:
+   - list generator :white_check_mark:
+   - git generator (directories subtype) :white_check_mark:
+   - git generator (files subtype) :white_check_mark:
    - matrix generator :white_large_square:
    - merge generator :white_large_square:
