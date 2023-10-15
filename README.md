@@ -3,7 +3,7 @@
 
 ![Terraform Image](terraform.png)
 
-## what kind of resources are we going to create:
+## What kind of resources are we going to create?
 - Argocd applications
    - without sync policies & sync options :white_check_mark:
    - with sync policies & sync options :white_check_mark:
