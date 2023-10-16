@@ -4,13 +4,13 @@
 ![Terraform Image](terraform.png)
 
 ## What kind of resources are we going to create?
-- Argocd applications
+- Argocd Applications
    - without sync policies & sync options :white_check_mark:
    - with sync policies & sync options :white_check_mark:
-- Argocd projects :white_check_mark:
-- Argocd private repositories :white_check_mark:
-- Argocd clusters :white_check_mark:
-- Argocd applicationsets
+- Argocd Projects :white_check_mark:
+- Argocd Private Repositories :white_check_mark:
+- Argocd Clusters :white_check_mark:
+- Argocd Applicationsets
    - cluster generator :white_check_mark:
    - list generator :white_check_mark:
    - git generator (directories subtype) :white_check_mark:
